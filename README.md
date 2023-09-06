@@ -1,1 +1,1 @@
-This is a git rebase README..
+This is a git rebase README.
